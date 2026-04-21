@@ -1,5 +1,6 @@
 # Resources
 We get google credits on cloud run - 
+fixmyitch - for ideas.
 
 # Misc
 Vercel -> ez but note capable enough for professional apps
