@@ -1,0 +1,464 @@
+[
+    {
+        "timestamp": "2026-04-21T13:58:27.050190",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.11640417919553,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.120797",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 81.96778587220717,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.220424",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.80125366398005,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.293252",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.983445830594235,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.375507",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 64.07244395635315,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.462652",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 64.41984920363323,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.551212",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.34940253091297,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.616654",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.310764423170646,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.695760",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.16141713673997,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.772397",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.83098722077921,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.845358",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.754120027542825,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.915468",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.84519167924276,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:27.986108",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.74273264112163,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.055736",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.507818358553784,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.154987",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.37402178160435,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.224088",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.6136323769593,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.294955",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.3323626325706,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.364790",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.33089064494783,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.446658",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.586651406589716,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.516018",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 69.27021375014944,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.586730",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 63.453055841427066,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.660679",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.70854677683841,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.731660",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.92800908809308,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.804783",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 64.61363686688941,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.872943",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.66930990760849,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:28.960282",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.611007061291964,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.034266",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 64.2565909538392,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.108716",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.36681848068053,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.193449",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 66.1310443102846,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.285047",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.574659016529,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.358221",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.74039996975883,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.444331",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.3040959481631,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.523265",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 74.4381630393555,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.681525",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.10729098297038,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.743774",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 71.45825892448673,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.816003",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.36552929885647,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.875913",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.02904515671623,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:29.939152",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.65967383852053,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.000043",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.74855648966176,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.057840",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.53855074667116,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.152913",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 60.32169346258892,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.223089",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 64.51948048271943,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.294651",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.146666035867696,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.366756",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 63.31976029428687,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.447880",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.33048034408148,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.510390",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 63.35615488912071,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.569911",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 63.760642926950425,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.692468",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.613960461217864,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.763147",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.81712117228946,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.815561",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.348190248628406,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.873983",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.08100318280301,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.934093",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.2984969007486,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:30.996999",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 61.82972061372135,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.055288",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 65.43812266489958,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.113645",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.424923577900024,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.214766",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 60.69342994689178,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.290127",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.091313086574786,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.362279",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.44923294897134,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.434112",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.32943234071802,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.520168",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.41402062723475,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.592622",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.00111538013487,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.668713",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 60.31703782044772,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.753408",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.10859801338405,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.857650",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.449238682775494,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:31.945984",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 63.43303950400842,
+        "actions": []
+    },
+    {
+        "timestamp": "2026-04-21T13:58:32.048159",
+        "severity": "satisfactory",
+        "node": "Node_0",
+        "predicted_pm10": 62.03878203850233,
+        "actions": []
+    }
+]
