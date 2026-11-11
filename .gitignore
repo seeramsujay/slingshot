@@ -50,4 +50,4 @@ conductor/setup_state.json
 # OS
 .DS_Store
 Thumbs.db
-Archives/
+Archives/.pytest_cache/
