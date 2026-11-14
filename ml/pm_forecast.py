@@ -320,8 +320,7 @@ def simulate_mitigation_impact(y_actual, y_pred, timestamps):
     ACTION_THRESHOLD = 250
 
     simulated_pm = []
-    spray_active = False
-    current_pm = y_actual.values[0]
+    y_actual.values[0]
 
     for i in range(len(y_pred)):
         predicted_val = y_pred[i]

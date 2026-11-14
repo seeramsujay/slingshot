@@ -389,7 +389,7 @@ def evaluate(df_features, model_name="rf", horizon=30, test_size=0.2):
     }
 
 
-def generate_metrics_table(df_features, horizons=[15, 30, 60], models=["rf"]):
+def generate_metrics_table(df_features, horizons=None, models=None):
     """
     Generate a comprehensive metrics table for different models and horizons.
 
@@ -401,6 +401,10 @@ def generate_metrics_table(df_features, horizons=[15, 30, 60], models=["rf"]):
     Returns:
         pd.DataFrame: Metrics table
     """
+    if models is None:
+        models = ["rf"]
+    if horizons is None:
+        horizons = [15, 30, 60]
     results = []
 
     for model in models:
