@@ -1,4 +1,22 @@
-# 🎯 Slingshot (DustVision): Adaptive Urban Dust Mitigation Framework
+<div align="center">
+
+<img src="assets/logo.svg" alt="Slingshot Logo" width="160" />
+
+# Slingshot
+### Adaptive Urban Dust Mitigation & PM2.5/PM10 Forecasting Framework
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/Gateway-FastAPI-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Protocol: ANTIGRAVITY](https://img.shields.io/badge/Protocol-ANTIGRAVITY-blueviolet.svg)](#)
+
+<p align="center">
+  <b>A closed-loop cyber-physical framework engineered to forecast particulate matter spikes and autonomously dispatch urban misting cannons and environmental mitigations before air quality thresholds breach.</b>
+</p>
+
+</div>
+
+---
 
 Slingshot is a high-agency, adaptive system engineered to forecast, analyze, and mitigate particulate matter (PM2.5/PM10) in dense urban environments. By fusing sensor intelligence with real-time forecasting pipelines, it dynamically triggers mitigation systems to protect public health before AQI thresholds are breached.
 
